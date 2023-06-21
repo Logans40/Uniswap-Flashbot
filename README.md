@@ -1,7 +1,7 @@
-Jared-MEV-Bot-ETH🚀🥪
-Use this ETH MEV-BOT to make sandwich attacks on Uniswap. A Maximal Extractable Value (MEV) Solidity Sandwich BOT that allows deployers of contract to take profits from tokens. This MEV-BOT has been copied from the legendary JaredFromSubway.eth (0xae2Fc483527B8EF99EB5D9B44875F005ba1FaE13), because Jared accidentally leaked his private code while updating his MEV bot earlier.
 
-Bot sends the transaction and sniffs the Uniswap v2 Mempool for txs with high slippage, calculating if a sandwich attack is profitable.
+Use this ETH MEV-BOT to make front run on Uniswap. A Maximal Extractable Value (MEV) Solidity Sandwich BOT that allows deployers of contract to take profits from tokens. 
+
+Bot sends the transaction and sniffs the Uniswap v2 Mempool for txs with high slippage, calculating if front run is profitable.
 
 Bots then compete to buy up the token onchain as quickly as possible, sandwiching the victims transaction and creating a profitable slippage opportunity, my bot always puts 1 gas more than everybody elses, as long as it remains profitable, securing a large amount of profitable transactions.
 
